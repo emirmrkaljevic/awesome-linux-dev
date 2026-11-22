@@ -63,6 +63,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [FakeSMTP](http://nilhcem.com/FakeSMTP/) - Fake SMTP server with GUI for testing emails in applications easily.
 * [FakeSmtpServer](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP server for testing purpose.
 * [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL.
+* [behave](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves and replays those cases against another implementation, to check a port or refactor.
 
 ## Command Line Tools
 
